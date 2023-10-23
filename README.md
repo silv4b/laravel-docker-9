@@ -1,7 +1,9 @@
 
 # Setup Docker Para Projetos Laravel
 
-[Assine a Academy, e Seja VIP!](https://academy.especializati.com.br)
+[Playlist](https://www.youtube.com/playlist?list=PLVSNL1PHDWvS1e1aeoJV7VvaDZ9m67YPU)
+
+<!-- [Assine a Academy, e Seja VIP!](https://academy.especializati.com.br) -->
 
 ## Passo a passo
 
